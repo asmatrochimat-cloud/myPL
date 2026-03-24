@@ -457,11 +457,27 @@ https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_250000=10008-mp4a_64000_eng=20000.m3u8
 
-#EXTINF:-1 group-title="TVRI Group" tvg-logo="https://iili.io/fO5kT91.jpg",MBG Tv
+#EXTINF:-1 group-title="TVRI Group" tvg-logo="https://iili.io/q4Fscla.jpg",MBG Tv
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w351915348_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="TVRI Group" tvg-logo="https://iili.io/fO5kT91.jpg",Parlemen Tv
+#EXTINF:-1 group-title="TVRI Group" tvg-logo="https://iili.io/q4FFwb9.jpg",Parlemen Tv
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="TVRI Group" tvg-logo="https://iili.io/q43DZIR.jpg",POLRI Tv
+https://stream.policetube.co/live/TVRadioPolri-4Cxwr4k9/index.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="Antara TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antaratv.jpg" group-title="TVRI Group",ANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7NRD8z8/Indonesiana-TV.jpg" group-title="TVRI Group", INDONESIANA
+https://tvstreamcast.com/indonesiana.m3u8
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
+
 
 
 
