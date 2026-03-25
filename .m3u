@@ -108,9 +108,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" group-title="TV Nasional",ANTV 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://iili.io/JMp3DJf.png" group-title="TV Nasional", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|referer=https://klik.tvri.go.id/&user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
@@ -123,14 +120,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=ht
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KNnYpzj/Picsart-23-07-19-10-49-59-499.jpg" group-title="TV Nasional", GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="TV Nasional", MDTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co.com/grG96WL/MOJI.jpg" group-title="TV Nasional", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -139,7 +128,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 https://playlist-coffee.my.id/oxy/moji.m3u8
-
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -150,14 +138,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg" group-title="TV Nasional", BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="TV Nasional", RTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -1054,7 +1034,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://iili.io/Jhksx6l.png" group-title="Tv Berita", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1451,11 +1430,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="Sports",PSJ TV ??
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg" group-title="Sports",PSJ TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="Sports",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="Sports", SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
