@@ -574,13 +574,13 @@ https://streaming.izzah.tv/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="??TV Islam??",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://youtv.live/data/channel/salamtv.png" group-title="??TV Islam??", SalamTv
+#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://iili.io/q6481Tb.jpg" group-title="??TV Islam??", SalamTv
 https://salamtv.siar.us/live/salamtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_TV_Sunnah.png" group-title="??TV Islam??",Tvsunnah
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/insantv.jpg", InsanTv
+#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q648Y37.jpg", InsanTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
 
@@ -600,7 +600,7 @@ https://flv.intechmedia.net/live/ch8.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch10.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/binbaztv.png", BinbazTv
+#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://iili.io/q648nvn.jpg", BinbazTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch22.m3u8
 
@@ -608,7 +608,7 @@ https://flv.intechmedia.net/live/ch22.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch7.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/mediasunnahacehtv.jpeg", MedsTv
+#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://iili.io/q648CYX.jpg", MedsTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch23.m3u8
 
@@ -628,11 +628,11 @@ https://flv.intechmedia.net/live/ch15.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/png-palikotv_20240831083646.png", PalikoTv
+#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q648TQ4.jpg", PalikoTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch31.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/rinjanitv_20241031090044.png", RinjaniTv
+#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q646jFR.jpg", RinjaniTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 
@@ -642,9 +642,7 @@ https://flv.intechmedia.net/locate/ch34.m3u8
 
 #EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/Kreqppt.jpg",Tv 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/KrEOgOG.jpg",MuslimTv
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8 
+ 
 
 #EXTINF:-1 tvg-id="artvisi.id" tvg-name="" tvg-logo="https://iili.io/fftEekv.png" group-title="??TV Islam??",ARTVISI
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
