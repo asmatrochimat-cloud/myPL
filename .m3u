@@ -1528,22 +1528,22 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ^^^^^^^^^^^^^🔹
  SERVER YOUTV🔹^^^^^^^^^^^
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/whatsapp-image-2025-01-21-at-09.15.19_20250121091819.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 01 Islam Pedia
+#EXTINF:-1  tvg-logo="https://iili.io/q648Y37.jpg" group-title="🔹 SERVER YOUTV🔹",CH 01 Insan tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 02 Ashiil Tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 02 Ashiil Tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch2.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-matematika_20250123112134.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 03 Surau tv
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png" group-title="🔹 SERVER YOUTV🔹",CH 03 Surau tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch3.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-bahasa-inggris_20250123112227.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 04 Ahsan Tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/ahsantv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 04 Ahsan Tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch4.m3u8
 
@@ -1559,16 +1559,16 @@ https://flv.intechmedia.net/live/ch5.m3u8
 https://flv.intechmedia.net/live/ch6.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 07 Najiyah tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/naanya-tv_20250211145457.png" group-title="🔹 SERVER YOUTV🔹",CH 07 Najiyah tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch7.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-matematika_20250123112134.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 08 Hijrah tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 08 Hijrah tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch8.m3u8
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-bahasa-inggris_20250123112227.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 09 Al iman tv
+#EXTINF:-1  tvg-logo="https://dl.dropboxusercontent.com/s/u2clhi5s7xa8kyr/aliman.png" group-title="🔹 SERVER YOUTV🔹",CH 09 Al iman tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch9.m3u8
 
@@ -1584,7 +1584,7 @@ https://flv.intechmedia.net/live/ch10.m3u8
 https://flv.intechmedia.net/live/ch11.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 12 salam tv
+#EXTINF:-1  tvg-logo="https://iili.io/q6481Tb.jpg" group-title="🔹 SERVER YOUTV🔹",CH 12 salam tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch12.m3u8
 
@@ -1599,7 +1599,7 @@ https://flv.intechmedia.net/live/ch13.m3u8
 https://flv.intechmedia.net/live/ch14.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="🔹 SERVER YOUTV🔹",CH 15 Puldapi tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/puldapiitv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 15 Puldapi tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch15.m3u8
 
@@ -1634,12 +1634,12 @@ https://flv.intechmedia.net/live/ch20.m3u8
 https://flv.intechmedia.net/live/ch21.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 22 Binbaz tv
+#EXTINF:-1  tvg-logo="https://iili.io/q648nvn.jpg" group-title="🔹 SERVER YOUTV🔹",CH 22 Binbaz tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch22.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-matematika_20250123112134.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 23 Meds tv
+#EXTINF:-1  tvg-logo="https://iili.io/q648CYX.jpg" group-title="🔹 SERVER YOUTV🔹",CH 23 Meds tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch23.m3u8
 
@@ -1664,7 +1664,7 @@ https://flv.intechmedia.net/live/ch26.m3u8
 https://flv.intechmedia.net/live/ch27.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-matematika_20250123112134.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 28 Izzah tv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/izzahtv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 28 Izzah tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch28.m3u8
 
@@ -1684,17 +1684,17 @@ https://flv.intechmedia.net/live/ch30.m3u8
 https://flv.intechmedia.net/live/ch31.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 32 Rinjani
+#EXTINF:-1  tvg-logo="https://iili.io/q646jFR.jpg" group-title="🔹 SERVER YOUTV🔹",CH 32 Rinjani
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-matematika_20250123112134.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 33 Wesel
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Wesal_TV.png" group-title="🔹 SERVER YOUTV🔹",CH 33 Wesal
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch33.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/smp-bahasa-inggris_20250123112227.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 34 MQH
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/mqhtv-square_20250207190005.png" group-title="🔹 SERVER YOUTV🔹",CH 34 MQH
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch34.m3u8
 
