@@ -1564,7 +1564,7 @@ https://flv.intechmedia.net/live/ch3.m3u8
 https://flv.intechmedia.net/live/ch4.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="🔹 SERVER YOUTV🔹",CH 05 MuadzTv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png" group-title="🔹 SERVER YOUTV🔹",CH 05 MuadzTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch5.m3u8
 
@@ -1595,7 +1595,7 @@ https://flv.intechmedia.net/live/ch10.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/whatsapp-image-2025-01-21-at-09.15.19_20250121091819.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 11 NiagaTv
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/niagatv.jpg" group-title="🔹 SERVER YOUTV🔹",CH 11 NiagaTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch11.m3u8
 
