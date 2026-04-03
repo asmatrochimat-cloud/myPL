@@ -577,9 +577,9 @@ https://flv.intechmedia.net/live/ch31.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/mqhtv-square_20250207190005.png", MQHTv
+#EXTINF:-1  tvg-logo="https://iili.io/BxuahIp.jpg" group-title="??TV Islam??",CH 34 MQH
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/locate/ch34.m3u8
+https://flv.intechmedia.net/live/ch34.m3u8
 
 #EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/Kreqppt.jpg",Tv 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
@@ -1710,7 +1710,7 @@ https://flv.intechmedia.net/live/ch32.m3u8
 https://flv.intechmedia.net/live/ch33.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/mqhtv-square_20250207190005.png" group-title="🔹 SERVER YOUTV🔹",CH 34 MQH
+#EXTINF:-1  tvg-logo="https://iili.io/BxuahIp.jpg" group-title="🔹 SERVER YOUTV🔹",CH 34 MQH
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch34.m3u8
 
