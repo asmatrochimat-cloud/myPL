@@ -731,6 +731,14 @@ https://malang.staratv.id/hls/1/stream.m3u8
 #EXTINF:-1 group-title="TV Daerah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", Staratv jakarta
 https://jakarta.staratv.id/hls/0/stream.m3u8?cachebust=8b7046
 
+#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png", Staratv Parahiyangan
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="TV Daerah" tvg-logo="https://iili.io/fftEjrg.jpg",Matrix Tv
 https://stream.matrixtv.id/hls/stream.m3u8
 
@@ -1069,7 +1077,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046type=drm
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-
+#EXTINF:-1 group-title="Tv Berita" tvg-logo="https://iili.io/KPf9AqG.jpg",IDX
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
 
 
