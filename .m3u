@@ -606,9 +606,13 @@ https://streaming.yufid.com/hls/radiokitatv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA8l4OQVoAMZWwl7dRl9_DdQKvNikj1rtw1j4-EPlMQ&s=10" group-title="??TV Islam??",TV Ikim 
 http://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6GLlGTknk2NaHWqqh3goBFtjUFJn9Cyf_lJ9MCVGZjYvmOPDxUEmwrpN&s=10" group-title="??TV Islam??",Nabawi TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://202.150.161.117:8000/play/NabawiTV
 
-
-
+#EXTINF:-1 group-title="??TV Islam??" tvg-id="" tvg-logo="https://youtv.live/data/channel/sjptv.png",SunnahJalanPasti TV (Ga 24 Jam) 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1 
+https://flv.intechmedia.net/live/ch17.m3u8
 
 
 
@@ -1612,7 +1616,7 @@ https://flv.intechmedia.net/live/ch15.m3u8
 https://flv.intechmedia.net/live/ch16.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sd-bahasa-inggris_20250123111906.jpeg" group-title="🔹 SERVER YOUTV🔹",CH 17
+#EXTINF:-1  tvg-logo="https://youtv.live/data/channel/sjptv.png" group-title="🔹 SERVER YOUTV🔹",CH 17 SunnahJalanPasti
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
 
