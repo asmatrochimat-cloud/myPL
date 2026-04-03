@@ -1179,6 +1179,10 @@ https://flv.intechmedia.net/live/ch84.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Kids", VTV VIVA
 http://103.66.62.83:8000/play/a00c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yaya.png" group-title="Kids",UPIN & IPIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
+
 
 
 
