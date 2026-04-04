@@ -519,7 +519,7 @@ https://streaming.izzah.tv/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="Saluran Religi",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://iili.io/q6481Tb.jpg" group-title="Saluran Religi, SalamTv
+#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://iili.io/q6481Tb.jpg" group-title="Saluran Religi", SalamTv
 https://salamtv.siar.us/live/salamtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_TV_Sunnah.png" group-title="Saluran Religi",Tvsunnah
