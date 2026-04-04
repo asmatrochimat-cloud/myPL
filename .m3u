@@ -445,176 +445,176 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> Tv Islam
-//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> Saluran Religi
+//=I==================================================================
 
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="??TV Islam??", AlQuran Kareem ?
+#EXTINF:-1 tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="Saluran Religi", AlQuran Kareem ?
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=lite&chname=Quran_TV
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="SunnaTV.id" tvg-name="Sunna TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="??TV Islam??", Sunna TV ?
+#EXTINF:-1 tvg-id="SunnaTV.id" tvg-name="Sunna TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="Saluran Religi", Sunna TV ?
 https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Saudi Sunna HD.ae" tvg-name="Saudi Sunna HD.ae" tvg-logo="https://warningfm.github.io/v3/img/xg97ErR.png?v=1.0.0.1" group-title="??TV Islam??", Saudi Sunna (Medina)
+#EXTINF:-1 tvg-id="Saudi Sunna HD.ae" tvg-name="Saudi Sunna HD.ae" tvg-logo="https://warningfm.github.io/v3/img/xg97ErR.png?v=1.0.0.1" group-title="Saluran Religi", Saudi Sunna (Medina)
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/KVtCbxS.png", Madani TV
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://iili.io/KVtCbxS.png", Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/chunklist_w1737654600_b365000.m3u8
  
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg", Ashiil TV
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg", Ashiil TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KDbnvqb.png" group-title="??TV Islam??", DMI TV
+#EXTINF:-1 tvg-logo="https://iili.io/KDbnvqb.png" group-title="Saluran Religi", DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hH9zNW3/MQTV.jpg" group-title="??TV Islam??", MQTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hH9zNW3/MQTV.jpg" group-title="Saluran Religi", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 http://iptvid.my.id/hmm/mqtv.m3u8
 http://180.211.90.134:8000/play/a08y
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mfTNBh/Boi-MUI-TV.jpg" group-title="??TV Islam??", MUI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1mfTNBh/Boi-MUI-TV.jpg" group-title="Saluran Religi", MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
 http://iptvid.my.id/hmm/muitv.m3u8
 http://180.211.90.134:8000/play/a092
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="??TV Islam??", TV MUHAMMADIYAH
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B2N1VM0/TV-MU.jpg" group-title="Saluran Religi", TV MUHAMMADIYAH
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="??TV Islam??", RODJA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dMcSJZc/RODJA-tv.jpg" group-title="Saluran Religi", RODJA TV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://rodjatv.com/rodjatv/live.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h233/01.m3u8
 
-#EXTINF:-105 group-title="??TV Islam??" tvg-logo="https://dl.dropboxusercontent.com/s/u2clhi5s7xa8kyr/aliman.png",AL-IMAN TV
+#EXTINF:-105 group-title="Saluran Religi" tvg-logo="https://dl.dropboxusercontent.com/s/u2clhi5s7xa8kyr/aliman.png",AL-IMAN TV
 https://tv.aliman.id/aliman/live_240p264kbs/index.m3u8
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 group-title="??TV Islam??"  tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png", TV 9 Nusantara
+#EXTINF:-1 group-title="Saluran Religi"  tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png", TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="??TV Islam??", BRTV
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="Saluran Religi", BRTV
 https://wms.klikhost.net/brtv/brtv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
  
-#EXTINF:-114 group-title="??TV Islam??" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Wesal_TV.png",Wesal TV
+#EXTINF:-114 group-title="Saluran Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Wesal_TV.png",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-114 group-title="??TV Islam??" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png",Surau TV
+#EXTINF:-114 group-title="Saluran Religi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png",Surau TV
 https://surautv.siar.us/live/surautv.m3u8
 
-#EXTINF:-114 group-title="??TV Islam??" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/78/Logo_Al-Wafa_TV.png",Alwafa Tarim TV
+#EXTINF:-114 group-title="Saluran Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/78/Logo_Al-Wafa_TV.png",Alwafa Tarim TV
 https://ammedia.siar.us/ammedia/live/ammedia_240p.m3u8
 
-#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/izzahtv.jpg",IZZAH TV
+#EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/izzahtv.jpg",IZZAH TV
 https://streaming.izzah.tv/izzahtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="??TV Islam??",BMSTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="Saluran Religi",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://iili.io/q6481Tb.jpg" group-title="??TV Islam??", SalamTv
+#EXTINF:-1 tvg-id="salamTV" tvg-name="Muslim Tv" tvg-logo="https://iili.io/q6481Tb.jpg" group-title="Saluran Religi, SalamTv
 https://salamtv.siar.us/live/salamtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_TV_Sunnah.png" group-title="??TV Islam??",Tvsunnah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_TV_Sunnah.png" group-title="Saluran Religi",Tvsunnah
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q648Y37.jpg", InsanTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://iili.io/q648Y37.jpg", InsanTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch1.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/ahsantv.jpg", AhsanTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/ahsantv.jpg", AhsanTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch4.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png", MuadzTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png", MuadzTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch5.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg", HijrahTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg", HijrahTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch8.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/niagatv.jpg", NiagaTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://youtv.live/data/channel/niagatv.jpg", NiagaTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch10.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://iili.io/q648nvn.jpg", BinbazTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://iili.io/q648nvn.jpg", BinbazTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch22.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/naanya-tv_20250211145457.png", NaajiyaTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://youtv.live/data/channel/naanya-tv_20250211145457.png", NaajiyaTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch7.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://iili.io/q648CYX.jpg", MedsTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://iili.io/q648CYX.jpg", MedsTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch23.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??"tvg-logo="https://youtv.live/data/channel/alfurqontv.jpeg", AlfurqonTv
+#EXTINF:-1 group-title="Saluran Religi"tvg-logo="https://youtv.live/data/channel/alfurqontv.jpeg", AlfurqonTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch24.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/mgitv.png", MgiTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/mgitv.png", MgiTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch25.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/puldapiitv.jpg", PuldapiTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/puldapiitv.jpg", PuldapiTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch15.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://youtv.live/data/channel/sjptv.png", SjpTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://youtv.live/data/channel/sjptv.png", SjpTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch17.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q648TQ4.jpg", PalikoTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://iili.io/q648TQ4.jpg", PalikoTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch31.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/q646jFR.jpg", RinjaniTv
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://iili.io/q646jFR.jpg", RinjaniTv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch32.m3u8
 
-#EXTINF:-1  tvg-logo="https://iili.io/BxuahIp.jpg" group-title="??TV Islam??",CH 34 MQH
+#EXTINF:-1  tvg-logo="https://iili.io/BxuahIp.jpg" group-title="Saluran Religi", MQH Tv
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch34.m3u8
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-logo="https://iili.io/Kreqppt.jpg",Tv 10
+#EXTINF:-1 group-title="Saluran Religi" tvg-logo="https://iili.io/Kreqppt.jpg",Tv 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
  
 
-#EXTINF:-1 tvg-id="artvisi.id" tvg-name="" tvg-logo="https://iili.io/fftEekv.png" group-title="??TV Islam??",ARTVISI
+#EXTINF:-1 tvg-id="artvisi.id" tvg-name="" tvg-logo="https://iili.io/fftEekv.png" group-title="Saluran Religi",ARTVISI
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AswajaTV.id" tvg-name="AswajaTV" tvg-logo="https://warningfm.github.io/v3/img/oJE1tDf.png?v=1.0.0.1" group-title="??TV Islam??", AswajaTV
+#EXTINF:-1 tvg-id="AswajaTV.id" tvg-name="AswajaTV" tvg-logo="https://warningfm.github.io/v3/img/oJE1tDf.png?v=1.0.0.1" group-title="Saluran Religi", AswajaTV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="??TV Islam??" tvg-logo="https://iili.io/KDQTJ6v.jpg", MTA TV
+#EXTINF:-1 tvg-id="--" group-title="Saluran Religi" tvg-logo="https://iili.io/KDQTJ6v.jpg", MTA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/qrEJ3Vj.png" group-title="??TV Islam??",Al Bahjah TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/qrEJ3Vj.png" group-title="Saluran Religi",Al Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9sLyX_tB2fnKbLxWBcIKps8Btbnmsa1NcDT-B0b2BQ&s=10",RADIO KITA TV 
+#EXTINF:-1 group-title="Saluran Religi" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9sLyX_tB2fnKbLxWBcIKps8Btbnmsa1NcDT-B0b2BQ&s=10",RADIO KITA TV 
 https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA8l4OQVoAMZWwl7dRl9_DdQKvNikj1rtw1j4-EPlMQ&s=10" group-title="??TV Islam??",TV Ikim 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA8l4OQVoAMZWwl7dRl9_DdQKvNikj1rtw1j4-EPlMQ&s=10" group-title="Saluran Religi",TV Ikim 
 http://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6GLlGTknk2NaHWqqh3goBFtjUFJn9Cyf_lJ9MCVGZjYvmOPDxUEmwrpN&s=10" group-title="??TV Islam??",Nabawi TV 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6GLlGTknk2NaHWqqh3goBFtjUFJn9Cyf_lJ9MCVGZjYvmOPDxUEmwrpN&s=10" group-title="Saluran Religi",Nabawi TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://202.150.161.117:8000/play/NabawiTV
 
-#EXTINF:-1 group-title="??TV Islam??" tvg-id="" tvg-logo="https://youtv.live/data/channel/sjptv.png",SunnahJalanPasti TV (Ga 24 Jam) 
+#EXTINF:-1 group-title="Saluran Religi" tvg-id="" tvg-logo="https://youtv.live/data/channel/sjptv.png",SunnahJalanPasti TV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1 
 https://flv.intechmedia.net/live/ch17.m3u8
 
