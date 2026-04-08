@@ -197,7 +197,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index
 #EXTINF:-1 tvg-id="MetroTV.my.id" tvg-name="MetroTV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501451_tvchannels_v1.jpg" group-title="Nasional", Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.imgur.com/b51gvtv.jpg",MAGNA Channel
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://i.imgur.com/b51gvtv.jpg",MAGNA Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -684,7 +684,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://iili.io/KVt2R2V.png" group-title="Daerah", Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://iili.io/Km24p6b.png",JTV
+#EXTINF:-1 group-title="Daerah" tvg-logo="https://iili.io/Km24p6b.png",JTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Daerah",JAK TV
@@ -708,7 +708,7 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",Radar Cirebon (Rctv) 
+#EXTINF:-1 group-title="Daerah" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",Radar Cirebon (Rctv) 
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Daerah" tvg-logo="https://iili.io/KVtQatV.jpg", RADAR Tegal TV
