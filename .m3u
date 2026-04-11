@@ -2741,11 +2741,73 @@ https://flv.intechmedia.net/live/ch230.m3u8
 
 
 
+,........ Max Group......... 
+
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="Max Group",Max Reels
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",Max Eats
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg",Max Streak
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group"  tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png" group-title="Max Group", Maxstream
+https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Max.Reels.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="Max Group", Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="Max Group", Max Eats
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Max.Streak.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg" group-title="Max Group", Max Streak
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
+#EXTINF:-1 tvg-id="Max.Kids.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="Max Group", Max Kids
+https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 
 
 
 
-
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Max Group",ID: Etv Bioskop
+http://opplextv.cyou:8080/nasir6160/nasir/350941
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Max Group",ID: Etv Bioskop 02
+http://opplextv.cyou:8080/nasir6160/nasir/350942
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Max Group",ID: Etv Bioskop 03
+http://opplextv.cyou:8080/nasir6160/nasir/350943
+#EXTINF:-1:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Max Group",ID: Etv Bioskop 04
+http://opplextv.cyou:8080/nasir6160/nasir/350944
 
 
 
